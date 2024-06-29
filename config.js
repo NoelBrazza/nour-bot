@@ -4,13 +4,13 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+212605784394', 'NOUR MD', true]
+  ['254724085270', 'NOUR MD', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
 
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = [254724086270] // Want some help?
+global.prems = [254724085270] // Premium user has unlimited limit
 
 // api key here okay
 global.xyro = 'LyrK9JMI7N' // https://api.xyroinee.xyz free limit unlimited
@@ -44,7 +44,7 @@ global.multiplier = 69 // The higher, The harder levelup
 //Text here
 global.me = 'NOUR BOT - 2023'
 global.bott = 'Nour md'
-global.nomorown = '212605784394'
+global.nomorown = '254724085270'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
